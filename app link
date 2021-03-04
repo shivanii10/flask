@@ -1,1 +1,13 @@
 https://flasklearning-app.herokuapp.com/
+
+
+
+
+#commandline 
+
+heroku create flask-app-01
+
+git remote -v
+
+git push heroku master
+
