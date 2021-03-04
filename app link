@@ -5,7 +5,7 @@ https://flasklearning-app.herokuapp.com/
 
 #commandline 
 
-heroku create flask-app-01
+heroku create flasklearning-app
 
 git remote -v
 
